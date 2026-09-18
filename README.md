@@ -1,4 +1,4 @@
-## Endpoints 
+## Endpoints
 
 Endpoint: https://wikirip-database.pages.dev
 
